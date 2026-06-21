@@ -102,8 +102,8 @@ Recommended outputs:
 - full MP4
 - 4-5 short clips
 - README with method
-- prompt pack
-- anonymization guide
+- prompt templates
+- public release checklist
 - timestamp plan
 - case study
 

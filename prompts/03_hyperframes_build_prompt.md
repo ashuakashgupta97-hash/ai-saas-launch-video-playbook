@@ -9,7 +9,7 @@ Requirements:
 - 1920x1080
 - 90 seconds
 - HTML, CSS, and GSAP animation
-- use a clean enterprise SaaS visual style
+- use a clean enterprise product-demo visual style
 - use product screenshots as the main proof layer
 - add focus boxes around important UI areas
 - add subtitles in a dark translucent strip near the bottom
@@ -24,6 +24,6 @@ The motion style should include:
 - KPI cards at the end
 
 Add placeholders for screenshots if actual screenshots are not available.
-Keep all content anonymized.
+Keep all content synthetic or approved for release.
 ```
 

@@ -2,7 +2,7 @@
 
 | Scene | Duration | Visual | Voiceover |
 | --- | ---: | --- | --- |
-| Opener | 6s | Email, PDF, Excel, and image cards move into an intake engine | AI driven Email Order Intake helps teams move from inbox-heavy processing to guided workflows. |
+| Opener | 6s | Email, PDF, Excel, and image cards move into an intake engine | AI-driven email order intake helps teams move from inbox-heavy processing to guided review workflows. |
 | Current burden | 28s | Manual steps stack vertically; selected steps show callouts | Today, teams receive customer and distributor orders over email. |
 | Workflow reveal | 6s | Many manual steps compress into three review steps | The new platform changes this into a guided AI-assisted workflow. |
 | Step 1 | 10s | Email queue screenshot with highlighted row | Step one: select an email from the live order queue. |

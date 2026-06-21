@@ -1,6 +1,6 @@
-# Anonymization Guide
+# Public Release Checklist
 
-Use this before publishing a portfolio repo or public case study.
+Use this checklist before publishing a demo video, public case study, or reusable project repo.
 
 ## Remove Or Replace
 
@@ -39,7 +39,7 @@ Best options:
 3. Crop the screenshot to show only the interaction.
 4. Use synthetic sample screenshots.
 
-Avoid uploading raw screenshots if they contain live data.
+Avoid publishing raw screenshots if they contain live data.
 
 ## Video Options
 
@@ -62,5 +62,5 @@ Before publishing, ask:
 - Are there hidden files with secrets?
 - Does the commit history contain removed secrets?
 
-If the answer to any question is yes, sanitize before upload.
+If the answer to any question is yes, remove or replace the material before publishing.
 

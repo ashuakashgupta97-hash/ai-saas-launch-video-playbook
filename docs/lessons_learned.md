@@ -12,9 +12,9 @@ The script, screen changes, subtitles, and animations must all say the same thin
 
 Abstract animations explain the idea. Product screenshots prove the product exists.
 
-## 4. AI Is Most Useful As An Iterative Production Partner
+## 4. AI-Assisted Review Works Best Iteratively
 
-The value came from multiple rounds:
+The strongest results came from multiple review rounds:
 
 - script draft
 - storyboard
@@ -32,7 +32,7 @@ Feedback like "the highlight should appear when this exact line is spoken" is mu
 
 Automatic transcript output is a good starting point, but public video subtitles should be manually checked for wording, wrapping, and timing.
 
-## 7. Anonymization Is Part Of The Workflow
+## 7. Public Release Review Is Part Of The Workflow
 
-If the video comes from an internal product, anonymization should not be an afterthought. It should be planned before publishing.
+If the video comes from an internal product, public release review should not be an afterthought. It should be planned before publishing.
 

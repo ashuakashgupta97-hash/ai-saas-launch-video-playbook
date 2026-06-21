@@ -1,6 +1,6 @@
-# Final Script - Anonymized Example
+# Reference Script
 
-AI driven Email Order Intake helps teams move from inbox-heavy order processing to guided, review-ready workflows.
+AI-driven email order intake helps teams move from inbox-heavy order processing to guided, review-ready workflows.
 
 Today, billing teams receive customer and distributor orders over email.
 
@@ -16,9 +16,9 @@ Step two begins once the source document opens on the left. On the right, the sy
 
 Then verify products and quantities. The system reads line items, maps products to product codes, keeps evidence visible, and lets the user correct mappings or quantities quickly.
 
-Step three: download the final Excel and post it into the downstream system, making the process really quick.
+Step three: download the final Excel and post it into the downstream system, making the process faster and easier to review.
 
 The result is fewer clicks, fewer product-code errors, faster order preparation, shorter fulfillment time, and a clear audit trail from email to Excel.
 
-This is AI driven Email Order Intake.
+This is AI-driven email order intake.
 

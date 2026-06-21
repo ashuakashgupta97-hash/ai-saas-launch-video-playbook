@@ -2,7 +2,7 @@
 
 ## Product
 
-AI-assisted email order intake platform.
+Email order intake platform with AI-assisted review.
 
 ## Audience
 

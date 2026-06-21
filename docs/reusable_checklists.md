@@ -39,14 +39,14 @@
 - [ ] No off-brand colors
 - [ ] No logo or confidential data visible
 
-## GitHub Publishing Checklist
+## Public Release Checklist
 
 - [ ] README is clear
-- [ ] Case study is anonymized
+- [ ] Case study uses approved or synthetic examples
 - [ ] Prompts are reusable
 - [ ] No raw internal assets included
 - [ ] No API keys or credentials
 - [ ] No real company names
-- [ ] Short snippets are sanitized
+- [ ] Short snippets use only approved or synthetic content
 - [ ] License included
 

@@ -3,7 +3,7 @@
 Use this prompt when you want to convert a business use case into a launch-video direction.
 
 ```text
-I want to create a 75-90 second SaaS/product launch video for a generic AI-assisted email order intake platform.
+I want to create a 75-90 second SaaS/product launch video for an email order intake platform with AI-assisted review.
 
 The video should explain:
 1. Current pain points
@@ -37,7 +37,7 @@ Please create:
 - where screenshots or screen recordings should appear
 - KPI ideas for the closing scene
 
-Keep the tone professional, enterprise-ready, and AI-focused.
+Keep the tone professional, enterprise-ready, and focused on workflow impact.
 Do not use real company, customer, vendor, email, or product names.
 ```
 

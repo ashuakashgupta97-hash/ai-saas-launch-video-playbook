@@ -18,7 +18,7 @@ Check:
 
 Create:
 - final MP4
-- 4-5 short clips for GitHub or LinkedIn
+- 4-5 short clips for demos or portfolio use
 - a list of exact output paths
 - a short release note describing what was verified
 ```

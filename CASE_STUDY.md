@@ -1,4 +1,4 @@
-# Case Study: AI-Assisted Product Launch Video For An Email Order Intake Platform
+# Case Study: Product Launch Video For An Email Order Intake Platform
 
 ## 1. Business Context
 
@@ -51,9 +51,9 @@ HyperFrames was useful because the video could be built like a web page:
 
 This made it easier to revise scenes based on business feedback.
 
-## 6. AI Contribution
+## 6. AI-Assisted Production Workflow
 
-AI was used as a production partner across multiple stages:
+AI-assisted tools supported several production stages:
 
 - converting raw business context into a structured script
 - making the story more concise and executive-friendly
@@ -62,9 +62,9 @@ AI was used as a production partner across multiple stages:
 - editing HyperFrames composition code
 - aligning subtitles to audio
 - identifying scenes where screenshot focus boxes needed adjustment
-- preparing public documentation and reusable prompts
+- preparing reusable documentation and prompt templates
 
-The value came from iterative direction, not a single one-shot prompt.
+The value came from iterative review, specific feedback, and repeated refinement.
 
 ## 7. Technical Pipeline
 
@@ -94,7 +94,7 @@ The final output was a short SaaS/product-style launch video with:
 - focus rectangles and UI highlights
 - synced subtitles
 - KPI close
-- short social snippets
+- short demo snippets
 
 ## 9. Lessons Learned
 
@@ -103,5 +103,5 @@ The final output was a short SaaS/product-style launch video with:
 - Product screenshots make the story credible.
 - Timestamp-level feedback is essential for good video sync.
 - Subtitles need manual review even after transcript automation.
-- Public examples should always use anonymized data.
+- Public examples should always use synthetic or approved data.
 

@@ -1,6 +1,6 @@
 # Video Snippets
 
-These short MP4 clips are designed for GitHub, LinkedIn, or portfolio posts.
+These short MP4 clips are designed for demos, stakeholder updates, or portfolio use.
 
 | File | What It Shows |
 | --- | --- |

@@ -1,6 +1,6 @@
-# AI SaaS Launch Video Playbook
+# SaaS Launch Video Playbook
 
-This repository is a practical playbook for creating a polished SaaS or internal-product launch video using AI-assisted scripting, HyperFrames motion graphics, product screenshots, voiceover, subtitles, and iterative quality checks.
+This repository is a practical playbook for creating polished SaaS and internal-product launch videos using structured scripting, motion graphics, product screenshots, voiceover, subtitles, and iterative quality checks.
 
 The example use case is a generic AI-assisted email order intake platform. The same workflow can be reused for dashboards, workflow automations, internal AI tools, enterprise portals, analytics products, or transformation programs.
 
@@ -26,7 +26,7 @@ The example video follows this arc:
 3. The user follows a three-step flow: select email, verify mappings, download Excel.
 4. The result is fewer clicks, fewer product-code errors, faster preparation, and a clear audit trail.
 
-All examples in this repo are anonymized and use synthetic names.
+All examples use synthetic names, mock data, and generic product references.
 
 ## Production Workflow
 
@@ -47,7 +47,7 @@ flowchart LR
 
 ## Tools Used
 
-- AI coding assistant for story development, composition editing, and QA iteration
+- AI-assisted planning and editing for story development, composition refinement, and QA iteration
 - HyperFrames for HTML/CSS/GSAP-based motion graphics
 - GSAP for animation sequencing
 - FFmpeg and FFprobe for audio/video inspection, clipping, overlays, and final media checks
@@ -68,13 +68,12 @@ flowchart LR
 │   ├── 04_revision_and_sync_prompt.md
 │   └── 05_final_qa_prompt.md
 ├── storyboard/
-│   ├── final_script_anonymized.md
+│   ├── reference_script.md
 │   └── timestamp_plan.md
 ├── docs/
 │   ├── workflow_architecture.md
 │   ├── production_pipeline.md
 │   ├── anonymization_guide.md
-│   ├── github_upload_guide.md
 │   ├── lessons_learned.md
 │   └── reusable_checklists.md
 ├── examples/
@@ -95,7 +94,7 @@ flowchart LR
 4. Build the video in HyperFrames or another motion system.
 5. Add voiceover, run transcript/timing review, and create subtitles.
 6. Render and run the QA checklist in `docs/reusable_checklists.md`.
-7. Export short clips for LinkedIn, GitHub, or portfolio use.
+7. Export short clips for internal demos, stakeholder updates, or portfolio use.
 
 ## What To Replace For Your Use Case
 
@@ -110,5 +109,7 @@ flowchart LR
 
 ## Privacy Note
 
-Do not upload real company logos, customer names, vendor names, internal screenshots, order IDs, email IDs, API keys, or confidential business data. Use the anonymization guide before publishing.
+Do not publish real company logos, customer names, vendor names, internal screenshots, order IDs, email IDs, API keys, or confidential business data. Use the public release checklist before sharing externally.
+
+Content and templates are provided for reuse under the repository license.
 
