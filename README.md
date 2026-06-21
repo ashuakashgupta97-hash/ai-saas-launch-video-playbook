@@ -4,6 +4,18 @@ This repository is a practical playbook for creating polished SaaS and internal-
 
 The example use case is a generic AI-assisted email order intake platform. The same workflow can be reused for dashboards, workflow automations, internal AI tools, enterprise portals, analytics products, or transformation programs.
 
+## Preview The Output
+
+These short GIFs show the type of motion system this playbook helps you plan, build, review, and package.
+
+| Intake engine | Manual burden callouts |
+| --- | --- |
+| <img src="media/gifs/01-document-intake.gif" alt="Document intake animation preview" width="420"> | <img src="media/gifs/02-current-burden.gif" alt="Manual workflow burden animation preview" width="420"> |
+
+| Three-step workflow | Product review focus |
+| --- | --- |
+| <img src="media/gifs/03-three-step-flow.gif" alt="Three-step workflow transition preview" width="420"> | <img src="media/gifs/04-product-review.gif" alt="Product review interface animation preview" width="420"> |
+
 ## What This Repo Helps You Build
 
 A 60-90 second launch video that explains:
@@ -59,31 +71,32 @@ flowchart LR
 
 ```text
 .
-├── README.md
-├── CASE_STUDY.md
-├── prompts/
-│   ├── 01_initial_video_brief.md
-│   ├── 02_script_storyboard_prompt.md
-│   ├── 03_hyperframes_build_prompt.md
-│   ├── 04_revision_and_sync_prompt.md
-│   └── 05_final_qa_prompt.md
-├── storyboard/
-│   ├── reference_script.md
-│   └── timestamp_plan.md
-├── docs/
-│   ├── workflow_architecture.md
-│   ├── production_pipeline.md
-│   ├── anonymization_guide.md
-│   ├── lessons_learned.md
-│   └── reusable_checklists.md
-├── examples/
-│   ├── sample_input_brief.md
-│   └── sample_storyboard.md
-├── templates/
-│   ├── video_brief_template.md
-│   └── voiceover_caption_pipeline.md
-└── media/
-    └── snippets/
+|-- README.md
+|-- CASE_STUDY.md
+|-- prompts/
+|   |-- 01_initial_video_brief.md
+|   |-- 02_script_storyboard_prompt.md
+|   |-- 03_hyperframes_build_prompt.md
+|   |-- 04_revision_and_sync_prompt.md
+|   `-- 05_final_qa_prompt.md
+|-- storyboard/
+|   |-- reference_script.md
+|   `-- timestamp_plan.md
+|-- docs/
+|   |-- workflow_architecture.md
+|   |-- production_pipeline.md
+|   |-- anonymization_guide.md
+|   |-- lessons_learned.md
+|   `-- reusable_checklists.md
+|-- examples/
+|   |-- sample_input_brief.md
+|   `-- sample_storyboard.md
+|-- templates/
+|   |-- video_brief_template.md
+|   `-- voiceover_caption_pipeline.md
+`-- media/
+    |-- gifs/
+    `-- snippets/
 ```
 
 ## How To Use This Playbook
